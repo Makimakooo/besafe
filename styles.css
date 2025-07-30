@@ -89,7 +89,7 @@ section {
 .hero {
   background-color: #000000;
   position: relative;
-  background-image: url(/img/land-cruiser.png);
+  background-image: url(img/land-cruiser.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -202,21 +202,21 @@ form button:hover {
 
 
 .section-about {
-  background-image: url("/img/cadillac.png");
+  background-image: url("img/cadillac.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .section-cars {
-  background-image: url("/img/vito.png");
+  background-image: url("img/vito.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .section-transfers {
-  background-image: url("/img/banan.png");
+  background-image: url("img/banan.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
